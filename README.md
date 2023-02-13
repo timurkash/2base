@@ -25,3 +25,5 @@ Benchmark2Base4-4       53225875                21.97 ns/op            0 B/op   
 PASS
 ok      vscode2/2base   7.082s
 ```
+
+`n *= 2` faster than `n = n * 2` and slower than `n = n << 1`
