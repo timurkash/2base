@@ -45,7 +45,7 @@ func Is2Base3(i uint64) (bool, uint8) {
 	return false, 0
 }
 
-func Is2Base3_2(i uint64) (bool, uint8) {
+func Is2Base32(i uint64) (bool, uint8) {
 	var n uint64 = 1
 	var d uint8 = 0
 	for {

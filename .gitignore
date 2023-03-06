@@ -1,0 +1,9 @@
+
+.idea
+.trunk
+*.svg
+*.pdf
+*.gz
+cpu.out
+mem.out
+2base.test
